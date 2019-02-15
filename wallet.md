@@ -504,7 +504,6 @@ Json数据：
 | member_id		| true			| number		| 会员ID		|						|													|
 | access_token| true			| string		| 访问令牌	|						|													|
 | ad_id				| true			| number		| 广告ID		|						|													|
-| c_type			| true			| number		| 币种			|						|													|
 | price				| true			| float			| 单价			| 0					|													|
 | num					| true			| float			| 数量			| 0					|													|
 | min_num			| true			| float			| 最小成交额| 0					|													|
